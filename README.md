@@ -25,10 +25,8 @@ and a bit of <strong>Deploy Server & Positive SSL</strong>.
 
 <h2>✒️ Work Done </h2>
 
- <summary>Explore</summary>
- <li>Daily Report System</li>
+<li>Daily Report System</li>
 <li> Merge Chat Facebook && Line oa  </li>
-
 
 <h2>📜 My skills </h2>
 
