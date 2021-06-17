@@ -24,22 +24,19 @@ and a bit of <strong>Deploy Server & Positive SSL</strong>.
 </ul>
 
 <h2>✒️ Work Done </h2>
-<details>
+
  <summary>Explore</summary>
  <li>Daily Report System</li>
 <li> Merge Chat Facebook && Line oa  </li>
-</details>
+
 
 <h2>📜 My skills </h2>
 
-<details>
+
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=beatXD&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=beatXD&theme=tokyonight&hide_langs_below=4'/>
-
-
 </div>
-</details>
 
 <br />
 <h2>🚀 Some Tools I Use</h2>
