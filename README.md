@@ -1,5 +1,5 @@
 
-<h2>Hey 👋, I'm Beat is Real </h2>
+<h2>Hey 👋, I'm Beat </h2>
 <p> I'm Currently a Web Backend Developer &  Frontend Developer </p>
 <p>  Learning for FullStack Developers  </p>
 
