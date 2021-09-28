@@ -7,7 +7,6 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <ul>
-<li>🔭 I’m currently working on @ratchanikorn.</li>
 <li>🧐 Learning about 
 <strong>Node JS</strong>,  
 <strong>TypeScript</strong>, 
