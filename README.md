@@ -96,6 +96,9 @@
   <a href="https://github.com/beatXD">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
+  <a href="mailto:panupong043@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
   <a href="https://drive.google.com/file/d/1PYw05Jfo1Ak51ihe-Ct5G34fIblsb9Q-/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume" />
   </a>
