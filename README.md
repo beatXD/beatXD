@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatXD&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatXD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatXD&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatXD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top languages" />
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beatXD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=beatXD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400" alt="trophies" />
 </div>
 
 ---
@@ -95,6 +95,9 @@
 <p align="center">
   <a href="https://github.com/beatXD">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="mailto:panupong043@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://drive.google.com/file/d/1PYw05Jfo1Ak51ihe-Ct5G34fIblsb9Q-/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume" />
