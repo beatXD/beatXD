@@ -1,55 +1,104 @@
+<h1 align="center">Hi there, I'm Beat 👋</h1>
 
-<h2>Hey 👋, I'm Beat </h2>
-<p> I'm Currently a Web Backend Developer &  Frontend Developer </p>
-<p>  Learning for FullStack Developers  </p>
-
-<h2>⚡️ A Few Quick Facts</h2>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-<ul>
-<li>🧐 Learning about 
-<strong>Node JS</strong>,  
-<strong>TypeScript</strong>, 
-<strong>React</strong>,
-<strong>NextJS</strong>, 
-and a bit of <strong>Deploy Server & Positive SSL</strong>.
-</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/beatXD">Github</a>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1PYw05Jfo1Ak51ihe-Ct5G34fIblsb9Q-/view?usp=sharing">Resume</a>.</li>
-<li>🎉 Fun Fact: I'm Learn quickly。</li>
-<br />
-<br />
-</ul>
-
-<h2>✒️ Work Done </h2>
-
-<li>Daily Report System</li>
-<li> Merge Chat Facebook && Line oa  </li>
-
-<h2>📜 My skills </h2>
-
-
-<div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=beatXD&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=beatXD&theme=tokyonight&hide_langs_below=4'/>
-</div>
-
-<br />
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+<p align="center">
+  <a href="https://github.com/beatXD">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Backend+Developer;Frontend+Developer;Aspiring+Full-Stack+Developer;I+learn+quickly+%E2%9A%A1" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=beatXD&label=Profile%20views&color=7AA2F7&style=flat" alt="profile views" />
+  <a href="https://github.com/beatXD?tab=followers">
+    <img src="https://img.shields.io/github/followers/beatXD?label=Followers&style=flat&color=7AA2F7" alt="followers" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" width="300" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding gif" />
+
+- 🔭 I'm currently working as a **Web Backend & Frontend Developer**
+- 🌱 Leveling up toward becoming a **Full-Stack Developer**
+- 🧐 Deep-diving into **Node.js**, **TypeScript**, **React**, and **Next.js**
+- ⚙️ Exploring **server deployment**, **CI/CD**, and **SSL** setups
+- 👨‍💻 Most of my projects live on my [GitHub](https://github.com/beatXD)
+- 📄 Take a look at my [Resume](https://drive.google.com/file/d/1PYw05Jfo1Ak51ihe-Ct5G34fIblsb9Q-/view?usp=sharing)
+- ⚡ Fun fact: **I learn quickly!**
+
+<br clear="right" />
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatXD&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatXD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=beatXD&theme=tokyonight&hide_border=true" alt="github streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beatXD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beatXD&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+<!-- Snake animation (generated by the GitHub Action in .github/workflows/snake.yml) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/beatXD/beatXD/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/beatXD">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://drive.google.com/file/d/1PYw05Jfo1Ak51ihe-Ct5G34fIblsb9Q-/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume" />
+  </a>
+</p>
+
+<p align="center"><i>⭐️ Thanks for stopping by — let's build something great together!</i></p>
