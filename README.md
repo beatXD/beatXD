@@ -31,13 +31,6 @@
 
 ---
 
-## 🛠️ Work I've Done
-
-- 📊 **Daily Report System** — internal reporting and tracking platform
-- 💬 **Unified Chat** — merged **Facebook Messenger** & **LINE OA** into a single inbox
-
----
-
 ## 🚀 Tech Stack
 
 ### Languages
